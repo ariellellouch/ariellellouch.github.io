@@ -1,3 +1,4 @@
+---
 title: "Introduction to Continuum Mechanics - Solids"
 collection: teaching
 type: "Undergraduate"
