@@ -1,7 +1,7 @@
 ---
-title: "Introduction to Continuum Mechanics - Solids"
+title: "Introduction to Continuum Mechanics - Solids, Lecturer"
 collection: teaching
-type: "Undergraduate"
+type: "2nd Year Undergraduate"
 permalink: /teaching/2016-cont-mechs.md
 venue: "Tel Aviv University"
 date: 2016-10-1
