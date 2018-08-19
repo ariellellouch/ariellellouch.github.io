@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics & Mathematics, Hebrew University of Jerusalem, 2012
+* B.Sc. in Physics & Mathematics, Hebrew University of Jerusalem, 2009
 * M.Sc. in Earth Sciences, Tel Aviv University, 2014
 * Ph.D. in Earth Sciences, Tel Aviv University, 2018
 
