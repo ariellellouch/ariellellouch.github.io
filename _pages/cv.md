@@ -17,20 +17,16 @@ Education
 
 Work experience
 ======
-* 2018 - Present: Post-doc
-  * Stanford University, SEP
+* 2018 - Present: Post-doc, Stanford University, SEP
   * Using DAS for earthquake monitoring
 
-* 2015 - 2018: Ph.D Student
-  * Tel Aviv University
+* 2015 - 2018: Ph.D Student, Tel Aviv University
   * Lecturer of "Introduction to Continuum Mechanics - Solids" for 4 consecutive years
 
-* 2015 - 2018: Geophysics consultant
-  * DSIT Technologies
+* 2015 - 2018: Geophysics consultant, DSIT Technologies
   * Seismic data processing and algorithms using DAS (fiber optic sensing)
 
-* 2009 - 2015: Researcher
-  * IDF
+* 2009 - 2015: Researcher, IDF
   * Near-surface geophysics
  
 Skills
