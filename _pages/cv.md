@@ -17,24 +17,30 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - Present: Post-doc
+  * Stanford University, SEP
+  * Using DAS for earthquake monitoring
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2015 - 2018: Ph.D Student
+  * Tel Aviv University
+  * Lecturer of "Introduction to Continuum Mechanics - Solids" for 4 consecutive years
+
+* 2015 - 2018: Geophysics consultant
+  * DSIT Technologies
+  * Seismic data processing and algorithms using DAS (fiber optic sensing)
+
+* 2009 - 2015: Researcher
+  * IDF
+  * Near-surface geophysics
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Common image gathers
+  * Passive (moveout-corrected, LAD, source-focusing gather)
+  * Active (LAD - isotropic / anisotropic / converted modes)
+* Velocity and Q-factor analysis
+* Inversion methods 
+* Diffraction imaging
 
 Publications
 ======
@@ -54,6 +60,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
