@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ariel Lellouch, a research geoscientist. I am passionated about seismic wave propagation, and more importantly - what can we infer from the subsurface properties when recording these waves. I've studied passive seismic velocity estimation, location problems, Q-factor inversion, time-reversal, diffraction imaging, PS imaging and velocity analysis, SH waves and more...
+I'm Ariel Lellouch, a research geoscientist. I am passionate about seismic wave propagation, and more importantly - what can we infer from these waves regarding subsurface properties. I've studied passive seismic velocity estimation, advanced common image gathers, location problems, Q-factor inversion, time-reversal, diffraction imaging, PS imaging and velocity analysis, SH waves and more...
 
-I am always on the look for new, interesting problems! I'd be happy to hear from you about (almost) anything at <a href="mailto:lellouch@gmail.com">my gmail (lellouch@gmail.com)</a>, so feel free!
+I am always on the look for new, interesting problems! I'd be happy to hear from you about (almost) anything at <a href="mailto:lellouch@gmail.com">my gmail (lellouch@gmail.com)</a> or <a href="ariellel@stanford.edu">at Stanford  (ariellel@stanford.edu)</a> , so feel free!
