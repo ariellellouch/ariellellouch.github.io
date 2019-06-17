@@ -3,4 +3,4 @@ collection: talks
 type: "Affiliate meeting"
 venue: "SEP Annual meeting 2019"
 date: 2019-5-10
-location: "Monterey, USA"
+location: "Monterey, CA, USA"
