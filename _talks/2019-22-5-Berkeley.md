@@ -4,5 +4,5 @@ collection: talks
 type: "Seminar"
 venue: "Geophysics department"
 date: 2019-5-22
-location: "Lawrence Berkeley Nationa Lab, California, USA"
+location: "Lawrence Berkeley National Lab, California, USA"
 ---
