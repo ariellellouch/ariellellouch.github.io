@@ -28,5 +28,33 @@ var addressPoints = [
     "Houston, Texas",
     29.7521,
     -95.3578
-  ]
+  ],
+
+  ["Menlo Park, California",
+  37.456542, 
+  -122.171271
+  ],
+
+  ["Santa Cruz, California",
+    36.998157, 
+    -122.059684
+  ],
+
+  ["Vienna, Austria",
+    48.234960, 
+    16.413937
+  ],
+
+  ["London, England",
+    51.508560, 
+    0.029867
+  ],
+
+
+  ["Berkeley, California",
+    37.876890,
+    -122.239088
+  ],
+
+
 ];
