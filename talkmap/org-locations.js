@@ -56,5 +56,9 @@ var addressPoints = [
     -122.239088
   ],
 
+  ["Monterey, California",
+    36.600759,
+    -121.895189
+  ],
 
 ];
