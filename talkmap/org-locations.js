@@ -61,4 +61,9 @@ var addressPoints = [
     -121.895189
   ],
 
+  ["San Antonio, Texas",
+     29.422129, 
+     -98.481621
+  ],
+
 ];
