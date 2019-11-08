@@ -1,5 +1,5 @@
 ---
-title: "Improving microseismic localization by effective migration velocity analysis"
+title: "Downhole seismic sensing using fibers (DAS)"
 collection: talks
 type: "Seminar"
 venue: "Geophysics Seminar (Post-docs)"
