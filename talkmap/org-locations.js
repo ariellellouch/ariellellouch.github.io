@@ -66,4 +66,9 @@ var addressPoints = [
      -98.481621
   ],
 
+    ["The Hague, Netherlands",
+     52.090169, 
+     4.282949
+  ],
+
 ];
