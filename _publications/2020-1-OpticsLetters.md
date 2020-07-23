@@ -8,4 +8,4 @@ venue: 'Optics Letters'
 paperurl: 'http://ariellellouch.github.io/files/ol-45-7-1834.pdf'
 ---
 
-[Download paper here](http://ariellellouch.github.io/files/Sol-45-7-1834.pdf)
+[Download paper here](http://ariellellouch.github.io/files/ol-45-7-1834.pdf)
