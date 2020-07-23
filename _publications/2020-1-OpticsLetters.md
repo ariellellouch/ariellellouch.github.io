@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-1-OpticsLetters.md
 excerpt: 'Training a DAS classifier using synthetic data generated geophysical seismic modeling'
 date: 2020-03-20
-venue: 'Optics Letters
+venue: 'Optics Letters'
 paperurl: 'http://ariellellouch.github.io/files/ol-45-7-1834.pdf'
 ---
 
