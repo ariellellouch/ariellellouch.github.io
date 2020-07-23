@@ -3,6 +3,6 @@ title: "Fracture Properties Estimation in Unconventional Reservoirs Using Seismi
 collection: talks
 type: "Workshop"
 venue: "First EAGE Workshop on Fibre Optic Sensing"
-date: 2019-11-21
+date: 2020-3-11
 location: "The Hague, Netherlands"
 ---
