@@ -5,7 +5,7 @@ permalink: /publication/2020-4-Geophysics.md
 excerpt: 'DAS can record high-frequency guided waves excited by perforation shots and propagating in a low velocity shale reservoir. Using a cross-well setup, we can infer stimulation-induced horizontal fracture growth by its effect on guided waves.'
 date: 2020-09-20
 venue: 'Geophysics'
-paperurl: 'https://library.seg.org/doi/abs/10.1190/geo2019-0793.1'
+paperurl: 'http://ariellellouch.github.io/files/geophy2020.pdf'
 ---
 
-[Download paper here](https://library.seg.org/doi/abs/10.1190/geo2019-0793.1)
+[Download paper here](http://ariellellouch.github.io/files/geophy2020.pdf)
