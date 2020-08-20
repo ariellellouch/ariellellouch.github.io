@@ -1,7 +1,7 @@
 ---
 title: "Fiber-optic distributed seismic sensing data generator and its application for training classification nets"
 collection: publications
-permalink: /publication/2020-1-OpticsLetters.md
+permalink: /publication/2020-1-OpticsLetters
 excerpt: 'Training a DAS classifier using synthetic data generated geophysical seismic modeling.'
 date: 2020-03-20
 venue: 'Optics Letters'
